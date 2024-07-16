@@ -8562,7 +8562,7 @@ GameObject:
   m_Component:
   - component: {fileID: 795462192}
   m_Layer: 0
-  m_Name: Explosivos
+  m_Name: Explosives
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14407,7 +14407,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1038410623}
   m_Layer: 0
-  m_Name: Enemigos
+  m_Name: Enemies
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
